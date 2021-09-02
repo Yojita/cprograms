@@ -1,3 +1,5 @@
+/* Write a C program to print Armstrong numbers between 1 to 1000 */
+
 #include <stdio.h>
 int main()
 {
@@ -12,9 +14,10 @@ int main()
         {
             result = num % 10;
             sum = sum + ( result * result * result);
-            num = num /10;
+            num = num / 10;
         }
         if(sum == i)
         printf("%d\n", i);
     }
+    return 0;
 }
