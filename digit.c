@@ -1,4 +1,4 @@
-/* Write a program to to find the sum of digits of a given number till it reduces to single digit */
+/* Write a program to find the sum of digits of a given number till it reduces to single digit */
 
 #include <stdio.h>
 int main()
