@@ -3,7 +3,7 @@
 #include <stdio.h>
 int main()
 {
-    int num, rows, columns, i, j;
+    int rows, columns, i, j;
     printf("Enter the number of rows : ");
     scanf("%d", &rows);
     printf("Enter the number of columns : ");
