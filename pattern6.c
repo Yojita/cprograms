@@ -1,9 +1,12 @@
 /* Write a program to print following pattern 
+
 12345
 23456
 34567
 45678
-56789 */
+56789 
+
+*/
 
 #include <stdio.h>
 int main()
